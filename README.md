@@ -40,8 +40,8 @@ This project allows users to create, manage, and read blog posts with authentica
 ## 📦 Installation
 1. **Clone the repository**
    ```bash
-  git clone https://github.com/Akash8174/Blogify-Project.git
-  cd Blogify-Project
+     git clone https://github.com/Akash8174/Blogify-Project.git
+     cd Blogify-Project
   
 2. **Install dependencies**
    ```bash
