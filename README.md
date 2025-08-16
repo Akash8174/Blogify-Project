@@ -37,21 +37,24 @@ This project allows users to create, manage, and read blog posts with authentica
 
 ---
 
-## ⚡ Getting Started
-### 1️⃣ Clone the repository
-  ```bash
+## 📦 Installation
+1. **Clone the repository**
+   ```bash
   git clone https://github.com/Akash8174/Blogify-Project.git
   cd Blogify-Project
-2️⃣ Install dependencies
-  ```bash
-  npm install
-3️⃣ Setup environment variables
-Create .env file in the root:
-  ```bash
+  
+2. **Install dependencies**
+   ```bash
+   npm install
+   
+3. **Setup environment variables**
+Create a .env file in the root:
+   ```bash
   MONGO_URI=your_mongodb_connection
   JWT_SECRET=your_secret_key
   PORT=8000
-4️⃣ Run the application
-  ```bash
-  npm run dev
- 
+  
+4. **Run the application**
+   ```bash
+   npm run dev
+
