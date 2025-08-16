@@ -45,16 +45,16 @@ This project allows users to create, manage, and read blog posts with authentica
   
 2. **Install dependencies**
    ```bash
-   npm install
+      npm install
    
 3. **Setup environment variables**
 Create a .env file in the root:
    ```bash
-  MONGO_URI=your_mongodb_connection
-  JWT_SECRET=your_secret_key
-  PORT=8000
+     MONGO_URI=your_mongodb_connection
+     JWT_SECRET=your_secret_key
+     PORT=8000
   
 4. **Run the application**
    ```bash
-   npm run dev
+      npm run dev
 
